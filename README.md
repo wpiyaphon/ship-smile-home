@@ -1,9 +1,17 @@
-## HOMEPAGE FEATURES:
+# Ship Smile Service
 
-- MUI Template and Components
-- API Fetching (RTK Query)
+The primary objective of this project is to develop a website that is responsive, specifically designed for the Ship Smile Service.
 
-## Files Location
+## Features
 
-- page > src/app/home
-- api > src/api/movie.ts && src/api/store.ts
+#### MUI Template and Components
+
+This project makes use of Minimal UI template and components from MUI. It has plentiful components and example as well as well-written documents.
+
+#### API Fetching (RTK Query)
+
+RTK Query is used for fetching api by creating an api file that contain base url and may have several endpoints, and a store file which acts like a medium for components to call apis globally.
+
+## Screenshots
+
+![App Screenshot](https://i.postimg.cc/0kFtg3pZ/ship-smile-homepage.png)
