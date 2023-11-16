@@ -1,13 +1,9 @@
-## NODE.JS
+## HOMEPAGE FEATURES:
 
-- Node 16.x || 18.x
+- MUI Template and Components
+- API Fetching (RTK Query)
 
-## USING YARN (Recommend)
+## Files Location
 
-- yarn install
-- yarn dev
-
-## USING NPM
-
-- npm i OR npm i --legacy-peer-deps
-- npm run dev
+- page > src/app/home
+- api > src/api/movie.ts && src/api/store.ts
