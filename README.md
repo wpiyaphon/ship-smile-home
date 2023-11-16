@@ -12,6 +12,14 @@ This project makes use of Minimal UI template and components from MUI. It has pl
 
 RTK Query is used for fetching api by creating an api file that contain base url and may have several endpoints, and a store file which acts like a medium for components to call apis globally.
 
+## Documentation
+
+#### File Location:
+
+- Homepage: src/app/home/page.tsx
+- API: src/api/movie.ts
+- Store: src/api/store.ts
+
 ## Screenshots
 
 ![App Screenshot](https://i.postimg.cc/0kFtg3pZ/ship-smile-homepage.png)

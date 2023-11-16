@@ -6,6 +6,6 @@ export const metadata = {
   title: 'ShipSmile: Home',
 };
 
-export default function OverviewAppPage() {
+export default function Homepage() {
   return <HomeView />;
 }
